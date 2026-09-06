@@ -37,13 +37,13 @@ population :is whole dataset.
 
 types of data:
 2 types:
-1.Numerical data :made of numbers-
+1.Quantitative/Numerical data :made of numbers-
     2-types:
       1.continues: can take any value within a range or deals with range of values or infinite options
        ex:age,salary,weight,height
       2.discrete:fixed value or finite options or countable values.
        ex:number of children,shoe size,number of cycles,Number of employees = 100
-2.categorical data:made of text data or words
+2.Qualitative/categorical data:made of text data or words
   2-types:
    1.ordinal data:data has heirachy
    2.nominal data:data has no heirachy
